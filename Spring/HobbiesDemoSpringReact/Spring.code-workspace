@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../NodeJs"
+		},
+		{
+			"path": "../../../../python-workspace"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
